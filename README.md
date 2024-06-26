@@ -10,9 +10,6 @@ A Front-End Engineer & Designer<br />
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="[https://alen-gebles.github.io/AllenGebles/](https://x.com/Alen_Gebles)">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />        
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>
 </p>
-
-
-![](https://komarev.com/ghpvc/?username=Alen-Gebles)
