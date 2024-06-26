@@ -8,5 +8,5 @@ I specialize in frontend development using modern technologies such as Next.js, 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,nodejs,tailwind,php,postgres,linux,git)](https://skillicons.dev)
 
-<img src="{[BadgeURLHere](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)}" />
+![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 ![](https://komarev.com/ghpvc/?username=Alen-Gebles)
