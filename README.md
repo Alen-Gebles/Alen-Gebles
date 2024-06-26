@@ -6,7 +6,7 @@ I specialize in frontend development using modern technologies such as Next.js, 
 
 ## My TooldBox:
 
-#### HTLM5 ~ CSS3 ~ JavaScript ~ TypeScript ~ React ~ Next.js ~ Tailwind ~ PHP ~ Bootstrap ~ Git ~ Figma ~ Adobe PS
+[![My Skills](https://skillicons.dev/icons?i=html,css,react, next.js, js, ts, tailwind, PHP, git, figma, adobe ps)](https://skillicons.dev)
 
 
 ![](https://komarev.com/ghpvc/?username=Alen-Gebles)
