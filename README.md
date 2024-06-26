@@ -6,15 +6,8 @@ I specialize in frontend development using modern technologies such as Next.js, 
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/alen-gebles-532729183/">
-    ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
 
 ![](https://komarev.com/ghpvc/?username=Alen-Gebles)
