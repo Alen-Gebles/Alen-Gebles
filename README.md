@@ -3,7 +3,7 @@ A Front-End Engineer & Designer
 3 years of activly producing good stuff, other years were me messing around and navigating through my career...
 
 <p align='center'>
-  ![image]({https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={alen-gebles}&theme={2077}})
+  ![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={alen-gebles})
 </p>
 
 <p align='center'>
