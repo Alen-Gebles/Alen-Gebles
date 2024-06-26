@@ -4,9 +4,17 @@ Only 3 years of activly producing good stuff, other years were me messing around
 
 I specialize in frontend development using modern technologies such as Next.js, React, and Tailwind.
 
-## My TooldBox:
+<p align='center'>
+  <a href="https://www.linkedin.com/in/alen-gebles-532729183/">
+    ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,nodejs,tailwind,php,postgres,linux,git)](https://skillicons.dev)
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
 
-![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 ![](https://komarev.com/ghpvc/?username=Alen-Gebles)
