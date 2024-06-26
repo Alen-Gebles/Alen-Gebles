@@ -3,7 +3,7 @@ A Front-End Engineer & Designer<br />
 3 years of activly producing good stuff, other years were me messing around and navigating through my career...
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alen-gebles&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alen-gebles&theme=dark" width="350"></a>
 </p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/alen-gebles-532729183/">
