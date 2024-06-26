@@ -6,7 +6,7 @@ I specialize in frontend development using modern technologies such as Next.js, 
 
 ## My TooldBox:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,ts,nextjs,nodejs,tailwind,php,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,nodejs,tailwind,php,postgres,linux,git)](https://skillicons.dev)
 
 
 ![](https://komarev.com/ghpvc/?username=Alen-Gebles)
