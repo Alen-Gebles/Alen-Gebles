@@ -14,9 +14,9 @@ A Front-End Engineer & Designer<br />
   </a>
 </p>
 
-<div align=center>
+<div>
 
-## Langs And Tools
+## Tools
   
 | Programing Language | Tools | Now I Learn |
 |---------------------|---------------------|---------------------|
