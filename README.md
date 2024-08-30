@@ -1,6 +1,6 @@
 # Hello earthling! I'm Allen
 A Front-End Engineer & Designer<br />
-2 years of activly producing good stuff, other years were me messing around and navigating through my career...
+Over 2 years of activly producing good stuff, other years were me messing around and navigating through my career...
 
 Website: <a href="https://alen-gebles.github.io/AllenGebles/">https://alen-gebles.github.io/AllenGebles/</a><br />
 Twitter: <a href="https://x.com/Alen_Gebles">https://x.com/Alen_Gebles</a><br />
